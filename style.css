@@ -1,0 +1,177 @@
+.Home{
+    position: relative;
+    font-size: 30px;
+    left:2000px;
+    top:5px;
+    background:none;
+    border-color:white;
+    color:white;
+
+}
+.About{
+    position: relative;
+    font-size: 30px;
+    left:2015px;
+    top:5px;
+    background:none;
+    border-color:white;
+    color:white;
+}
+
+.Contact{
+    position: relative;
+    font-size: 30px;
+    left:2030px;
+    top:5px;
+    background:none;
+    border-color:white;
+    color:white;
+}
+.News{
+    position: relative;
+    font-size: 30px;
+    left:2045px;
+    top:5px;
+    background:none;
+    border-color:white;
+    color:white;
+}
+.Moonbery{
+    position: relative;
+    font-family: Bradley Hand;
+    font-size: 30px;
+    right: 420px;
+    background: none;
+    border-color:white;
+    color:white;
+}
+
+
+
+.vonal{
+    position: relative;
+    height: 3px;
+    width: 2550px;
+    top:10px;
+    background-color:gray;
+}
+.logo{
+    position: relative;
+    width: 50px;
+    height: 60px;
+    bottom:780px;
+    left:2325px;
+}
+
+.bekezdes1{
+    position: relative;
+    font-family: Arial;
+    color:white;
+    font-size: 4em;
+
+}
+.bekezdes2{
+    position: relative;
+    font-family: Arial;
+    color:white;
+    font-size: 4em;
+    left:135px
+    
+}
+
+.reszek1{
+    position: relative;
+    font-family: Arial;
+    color:white;
+    font-size: 2em;
+    left:190px
+}
+.reszek2{
+    position: relative;
+    font-family: Arial;
+    color:white;
+    font-size: 2em;
+    bottom:200px;
+    left:150px
+}
+.reszek3{
+    position: relative;
+    font-family: Arial;
+    color:white;
+    font-size: 2em;
+    bottom:;
+    left:170px
+}
+.reszek4{
+    position: relative;
+    font-family: Arial;
+    color:white;
+    font-size: 2em;
+    bottom:40px;
+    left:150px
+}
+.reszek5{
+    position: relative;
+    font-family: Arial;
+    color:white;
+    font-size: 2em;
+    bottom:90px;
+    left:150px
+}
+.reszek6{
+    position: relative;
+    font-family: Arial;
+    color:white;
+    font-size: 2em;
+    bottom:165px;
+    left:150px
+}
+
+.reszek7{
+    position: relative;
+    font-family: Arial;
+    color:white;
+    font-size: 2em;
+    bottom:240px;
+    left:150px
+}
+.reszek8{
+    position: relative;
+    font-family: Arial;
+    color:white;
+    font-size: 2em;
+    bottom:;
+    left:90px
+}
+.reszek9{
+    position: relative;
+    font-family: Arial;
+    color:white;
+    font-size: 2em;
+    top:40px;
+    right:435px;
+}
+.reszek10{
+    position: relative;
+    font-family: Arial;
+    color:white;
+    font-size: 2em;
+    top:80px;
+    right:875px
+}
+.reszek11{
+    position: relative;
+    font-family: Arial;
+    color:white;
+    font-size: 2em;
+    top:115px;
+    right:1325px
+}
+.reszek12{
+    position: relative;
+    font-family: Arial;
+    color:white;
+    font-size: 2em;
+    top:150px;
+    right:1720px
+}
